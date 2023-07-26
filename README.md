@@ -7,16 +7,11 @@ This course comprises the following assessments:
     practical assignments: 
 
 
-
   
     Assignment 1, worth 25%.
 
-
-    
     Assignment 2, worth 30%
 
-
-    
     Assignment 3, worth 35%
 
     1 report:
