@@ -4,10 +4,16 @@ Computer vision enables computers and systems to see and understand digital imag
 
 # Assessment
 This course comprises the following assessments:
-  – 3 practical assignments:
-    • Assignment 1, worth 25%.
-    • Assignment 2, worth 30%
-    • Assignment 3, worth 35%
-  – 1 report:
-    • A short proposal, worth 10%
-  – There are no assessment “hurdles”
+    practical assignments: 
+  
+    Assignment 1, worth 25%.
+    
+    Assignment 2, worth 30%
+    
+    Assignment 3, worth 35%
+     
+    1 report:
+    
+    A short proposal, worth 10%
+
+  There are no assessment “hurdles”
