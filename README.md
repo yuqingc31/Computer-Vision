@@ -12,8 +12,8 @@ This course comprises the following assessments:
 
     Assignment 2, worth 30%
 
-    Assignment 3, worth 35%
+    Assignment 3, worth 35% (two questions, the second question includes a report)
 
     1 report:
     
-    A short proposal, worth 10%
+    Assignment 4 : A short proposal, worth 10%
