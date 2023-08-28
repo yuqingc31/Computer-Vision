@@ -12,7 +12,7 @@ This course comprises the following assessments:
 
     Assignment 2, worth 30%
 
-    Assignment 3, worth 35% (two questions, the second question includes a report)
+    Assignment 3, worth 35% (two questions, the second question includes a report) question1-20 question2-15
 
     1 report:
     
